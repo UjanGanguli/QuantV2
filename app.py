@@ -7,7 +7,7 @@
 ║   Author: Ujan | Built for NSE Equities                          ║
 ╚══════════════════════════════════════════════════════════════════╝
 """
-
+pip install scipy
 import streamlit as st
 import pandas as pd
 import numpy as np
