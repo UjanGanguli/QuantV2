@@ -263,33 +263,6 @@ STOCK_UNIVERSE = {
     "ADANIENT.NS": "Adani Enterprises",
 }
 
-st.markdown("""
-<div class="sub-header">BY UJAN GANGULI</div>
-
-<div class="explain-box-purple">
-    <b>QuantEngine v2</b> is a systematic analytics framework designed to decode market structure, 
-    identify probabilistic trade setups, and translate complex quantitative signals into 
-    actionable intelligence.
-
-    <br><br>
-
-    It blends <b>statistical rigor</b>, <b>volatility modeling</b>, and <b>regime detection</b> to 
-    provide a structured view of price behavior — removing noise, reducing bias, and enhancing 
-    decision clarity.
-
-    <br><br>
-
-    <span style="color:#a855f7;"><b>Core Philosophy:</b></span><br>
-    • Markets are probabilistic, not deterministic<br>
-    • Risk management dominates signal accuracy<br>
-    • Consistency > prediction
-
-    <br><br>
-
-    <span style="color:#6b6b80;">Built for disciplined traders, not gamblers.</span>
-</div>
-""", unsafe_allow_html=True)
-
 
 # ══════════════════════════════════════════════════════════════════
 # DATA LAYER
